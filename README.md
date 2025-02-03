@@ -1,4 +1,4 @@
-# HNG - 12
+# HNG - 12 Internship
 This repository contains all my tasks for the HNG Internship Backend Development Track.
 Each task is organized into its own folder and will require separate setup steps.
 

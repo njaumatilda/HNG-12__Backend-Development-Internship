@@ -1,19 +1,19 @@
 # HNG Stage 0 API
 This is a simple REST API project that provides a single GET endpoint which returns specified user information in JSON format.
 
-### Features 
+## Features 
 + Provides my HNG registered email
 + Provides current datetime in ISO 8601 format which is dynamically generated
 + Provides GitHub repository URL
 + Returns response in JSON format
 + Handles CORS for cross-origin requests
 
-### Tech Stack
+## Tech Stack
 + Node.js
 + Express.js 
 + MongoDB
 
-### Local setup instructions
+## Local setup instructions
 1. Clone the repository
 
 ```bash
@@ -54,15 +54,15 @@ DB_URL = mongodb://localhost:27017/your-database
 npm start
 ```
 
-### API Documentation
+## API Documentation
 Here is the reference on the usage of the API: 
 [API Documentation](https://documenter.getpostman.com/view/38132076/2sAYX5K2mA)
 
-### Deployment
+## Deployment
 The API has been deployed to a publicly accessible endpoint on Vercel:
-[Live URL]:()
+[Live URL]:(https://hng-12-backend-development-internship-36f9e5ech.vercel.app)
 
-### Author
+## Author
 [Matilda Njau](https://github.com/njaumatilda) - 
 [Node.js Backend Developer](https://hng.tech/hire/nodejs-developers)
 
