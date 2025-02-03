@@ -60,7 +60,7 @@ Here is the reference on the usage of the API:
 
 ## Deployment
 The API has been deployed to a publicly accessible endpoint on Vercel:
-[Live URL]:(https://hng-12-backend-development-internship-36f9e5ech.vercel.app)
+[Live URL](https://hng-12-backend-development-internship-36f9e5ech.vercel.app)
 
 ## Author
 [Matilda Njau](https://github.com/njaumatilda) - 
