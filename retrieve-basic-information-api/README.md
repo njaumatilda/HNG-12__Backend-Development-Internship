@@ -11,7 +11,6 @@ This is a simple REST API project that provides a single GET endpoint which retu
 ## Tech Stack
 + Node.js
 + Express.js 
-+ MongoDB
 
 ## Local setup instructions
 1. Clone the repository
@@ -39,14 +38,13 @@ npm install
 ```
 
 5. Configure environment variables
-To run this project, you will need to create a `.env` file in the root directory and make sure it is included in the `.gitignore` file. Configure the following environment variables:
+To run this project, you will need to create a `.env` file in the project directory and make sure it is included in the `.gitignore` file. Configure the following environment variables:
 
 ```env
 PORT = your-port
-DB_URL = mongodb://localhost:27017/your-database
 ```
 
-> Replace `your-port` with your specified port and `your-database` with the name of your MongoDB database 
+> Replace `your-port` with your specified port
 
 6. Start the server
 
@@ -60,7 +58,7 @@ Here is the reference on the usage of the API:
 
 ## Deployment
 The API has been deployed to a publicly accessible endpoint on Vercel:
-[Live URL](https://hng-12-backend-development-internship-36f9e5ech.vercel.app/myinfo)
+[Live URL](https://hng-12-backend-development-internship-36f9e5ech.vercel.app/)
 
 ## Author
 [Matilda Njau](https://github.com/njaumatilda) - 
